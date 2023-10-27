@@ -69,6 +69,9 @@ let resumeData = {
         "skillname":"Bootstrap 5 And Tailwind CSS"
       },
       {
+        "skillname":"JavaScript And React.js"
+      },
+      {
         "skillname":"Node.js And Express.js"
       },
       {
